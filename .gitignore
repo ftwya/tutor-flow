@@ -1,2 +1,4 @@
-git rm -r --cached .idea
-git add .gitignore PROJECT.md
+.idea/
+.env
+/vendor/
+/node_modules/
