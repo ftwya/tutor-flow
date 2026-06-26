@@ -1,0 +1,19 @@
+{
+    "name": "ftwya/tutor-flow-backend",
+    "description": "TutorFlow backend",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Ftwya\\TutorFlowBackend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ftwya",
+            "email": "13ftwya@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
